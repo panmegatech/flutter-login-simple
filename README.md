@@ -34,7 +34,7 @@ lib/
     ```
 2. Navigate into the project directory:
     ```bash
-    cd flutter_login_simple
+    cd flutter-login-simple
     ```
 3. Install dependencies:
     ```bash
