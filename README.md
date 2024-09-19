@@ -30,7 +30,7 @@ lib/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/flutter_login_simple.git
+    git clone https://github.com/panmegatech/flutter-login-simple.git
     ```
 2. Navigate into the project directory:
     ```bash
